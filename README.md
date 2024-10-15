@@ -1,1 +1,1 @@
-Using baseline regression techniques and CNN to predict the scores of olympic divers in the 10m event.
+Using baseline regression techniques and a CNN to predict the scores of olympic divers in the 10m event.
